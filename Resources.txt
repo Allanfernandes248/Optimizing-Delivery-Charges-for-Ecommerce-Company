@@ -1,0 +1,23 @@
+For Creating the DataBase Diagrams 
+https://dbdiagram.io/home
+
+
+Pandas Inner Join 
+https://pandas.pydata.org/docs/user_guide/merging.html
+
+
+To create a aggregated sum column
+https://sparkbyexamples.com/pandas/pandas-groupby-sum-examples/
+
+
+
+
+Weight Slab Checking logic (look at "round_up_to_nearest_half_int"  function)
+https://bobbyhadz.com/blog/python-round-float-to-nearest-0-5
+
+
+
+Apply Function to a pandas column 
+https://stackoverflow.com/questions/34962104/how-can-i-use-the-apply-function-for-a-single-column
+
+
